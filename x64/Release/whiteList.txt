@@ -1,0 +1,3 @@
+LicenseNum=1
+Port=8080
+VersionNum=1.0.125
